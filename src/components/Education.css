@@ -1,0 +1,18 @@
+.education {
+    padding: 2rem;
+    /* background-color: #f9f9f9; */
+  }
+
+  
+  .education-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .education-item {
+    margin-bottom: 1rem;
+  }
+.edu{
+  background-color: none;
+}
+  
